@@ -56,21 +56,6 @@ Slicers are included to allow users to dynamically filter the dashboard and anal
 
 ---
 
-## 📈 Dashboard Preview
-
-### Main Dashboard
-
-![Blinkit Dashboard](Screenshots/Dashboard_Overview.png)
-
-### Sales Analysis by Item
-
-![Sales Analysis by Item](Screenshots/Sales_Analysis_by_Item.png)
-
-### Sales Analysis by Outlet
-
-![Sales Analysis by Outlet](Screenshots/Sales_Analysis_by_Outlet.png)
-
----
 
 ## 🔄 Data Preparation Process
 
